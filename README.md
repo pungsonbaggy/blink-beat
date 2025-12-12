@@ -20,7 +20,7 @@ Mata kiri → snare
 Mata kanan → kick
 Kedip ganda → cymbal
 Visualisasi partikel saat berkedip
-
+🎥 [Tonton Demo Video](https://youtu.be/1Q5eK8beNms)
 ## 🚀 Instalasi
 ```bash
 git clone https://github.com/.../blink-beat.git
