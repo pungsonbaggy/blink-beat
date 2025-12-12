@@ -3,8 +3,8 @@
 Aplikasi interaktif berbasis webcam yang memungkinkan pengguna memainkan ketukan drum hanya dengan mengedipkan mata!
 
 ## 🧑‍🤝‍🧑 Anggota
-- Hayyatul Fajri (NIM: ..., GitHub: @...)
-- Muhammad Fasya Atthoriq (NIM: ..., GitHub: @...)
+- Hayyatul Fajri (NIM: 122140103, GitHub: @hayyatul122140103)
+- Muhammad Fasya Atthoriq (NIM: 122140107, GitHub: @pungsonbaggy)
 
 ## 📓 Logbook
 Minggu 1
