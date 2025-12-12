@@ -1,19 +1,19 @@
 # 🥁 Blink Beat
 
-Aplikasi interaktif berbasis webcam yang memungkinkan pengguna memainkan ketukan drum hanya dengan mengedipkan mata!
+Filter interaktif berbasis webcam yang memungkinkan pengguna memainkan ketukan drum hanya dengan mengedipkan mata!
 
 ## 🧑‍🤝‍🧑 Anggota
-- Hayyatul Fajri (NIM: ..., GitHub: @...)
-- Muhammad Fasya Atthoriq (NIM: ..., GitHub: @...)
+- Hayyatul Fajri (122140103)
+- Muhammad Fasya Atthoriq (122140107)
 
 ## 📓 Logbook
 Minggu 1
+Menenetukan Ide topik tugas besar
+Mencari referensi
 Setup environment Python 3.10
 Implementasi deteksi wajah dasar dengan MediaPipe
 Minggu 2
-Integrasi deteksi kedipan (EAR)
-Pengembangan sistem partikel real-time
-...
+Mulai Implementasi Program di Vscode
 
 🎯 Fitur
 Mata kiri → snare
